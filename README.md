@@ -1,4 +1,6 @@
-# aplikasi_wisata_bandung
+# Aplikasi Wisata Bandung 
+## Belajar Membuat Aplikasi Flutter untuk Pemula
+## DICODING
 
 A new Flutter project.
 
